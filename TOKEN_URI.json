@@ -1,0 +1,29 @@
+{
+  "name": "MeGustaCoin",
+  "symbol": "MGC",
+  "uri": "https://raw.githubusercontent.com/dxriowdk/dane/refs/heads/main/TOKEN_URI.json",
+  "sellerFeeBasisPoints": 200,
+  "creators": [
+    {
+      "address": "AuMd19gNTHz2dyUn1UMCpLDyXvm7hsMMonnKp2hjJ88G",
+      "verified": true,
+      "share": 100
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/dxriowdk/crypto/refs/heads/main/me-gusta.jpg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dxriowdk/crypto/refs/heads/main/me-gusta.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AuMd19gNTHz2dyUn1UMCpLDyXvm7hsMMonnKp2hjJ88G",
+        "share": 100
+      }
+    ]
+  }
+}
